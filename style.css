@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Gugi');
 
 #hello {
- font-align: center;
+ text-align: center;
  font-family: 'Gugi', cursive;
- font-size: 30px;
+ font-size: 150px;
 }
